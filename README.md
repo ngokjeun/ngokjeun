@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm Ngok Jeun</h1>
-<h3 align="left">A passionate student analyst in NTU</h3>
+<h2 align="center">Hi 👋, I'm Ngok Jeun</h1>
+<h3 align="center">A passionate analyst studying in NTU</h3>
 <p>
   
 - 🔭 I’m currently working on **hdb resale prices**
