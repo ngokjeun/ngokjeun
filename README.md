@@ -2,9 +2,7 @@
 <h3 align="center">an aspiring data scientist</h3>
 <p>
   
-- 🔭 I’m currently working on **hdb resale prices**
-- 🌱 I’m currently learning **R, ML in Python**
-- 💬 Ask me about **Python, SQL**
+- 🌱 I’m currently learning **TensorFlow, Rust**
 - 📫 How to reach me **n.jeunw@gmail.com**
 
 </p>
